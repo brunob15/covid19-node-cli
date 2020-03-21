@@ -1,6 +1,6 @@
 {
   "name": "covid19-node-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI to query statistics about COVID-19",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,10 @@
     "covid-19",
     "cli"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/brunob15/covid19-node-cli"
+  },
   "author": "Bruno Bradach",
   "license": "MIT",
   "dependencies": {
