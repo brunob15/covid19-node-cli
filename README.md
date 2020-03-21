@@ -1,7 +1,7 @@
-# INSTALL
+## INSTALL
 npm install -g covid19-node-cli
 
-# USAGE
+## USAGE
 
 ### Get confirmed cases
 ```
