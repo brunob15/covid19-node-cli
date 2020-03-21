@@ -1,0 +1,22 @@
+{
+  "name": "covid19-node-cli",
+  "version": "1.0.1",
+  "description": "CLI to query statistics about COVID-19",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "covid-19": "./index.js"
+  },
+  "keywords": [
+    "covid-19",
+    "cli"
+  ],
+  "author": "Bruno Bradach",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "request": "^2.88.2"
+  }
+}
