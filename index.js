@@ -32,7 +32,7 @@ if (program.country) {
         }
 
         const results = JSON.parse(body);
-        if (results) {
+        if (results && results.length) {
             const lastStats = results.slice(-1)[0];
             const lastUpdate = lastStats.Date;
             const cases = lastStats.Cases;

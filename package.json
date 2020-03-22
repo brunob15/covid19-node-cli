@@ -14,8 +14,8 @@
     "cli"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/brunob15/covid19-node-cli"
+    "type": "git",
+    "url": "https://github.com/brunob15/covid19-node-cli"
   },
   "author": "Bruno Bradach",
   "license": "MIT",
